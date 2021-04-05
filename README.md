@@ -3,14 +3,14 @@ I'm Bart, a 18 year old coder and an IB Diploma student.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek) 
 
 ### About me
-- 🔭 Leading areas of interest: [Computer Vision](https://github.com/doodek/learning-opencv), [Artificial Intelligence](https://github.com/doodek/ai-course), Embedded systems
-- 🌱 Currently focused on: [Stereoscopic vision for a Mars rover](https://github.com/knei-knurow/stereo-cxx), [Artificial Neural Networks](https://github.com/doodek/ai-course)
-- 🤔 Programming AVR Microcontrollers in C since 2016. Created a decent amount of [AVR C CODE](https://github.com/doodek/avr-c-demos), which I migrate to GitHub when I am too tired to do anything more productive.
-- 🌱 Loves STM32 microcontrollers. 
-- 🌱 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016.
-- 🤔 Won some prizes and was on TV (see below).
-- 🤔 IB Diploma Programme M22 Student. HL: Math AA, Physics(+EE), English B, SL: Chemistry, Economics Polish A Lit., 
-- 🌱 Undertaking Artificial Intelligence course at Silesian University of Technology (being a high school student)
+- Leading areas of interest: [Computer Vision](https://github.com/doodek/learning-opencv), [Artificial Intelligence](https://github.com/doodek/ai-course), Embedded systems
+- Currently focused on: [Stereoscopic vision for a Mars rover](https://github.com/knei-knurow/stereo-cxx), [Artificial Neural Networks](https://github.com/doodek/ai-course)
+- Programming AVR Microcontrollers in C since 2016. Created a decent amount of [AVR C CODE](https://github.com/doodek/avr-c-demos), which I migrate to GitHub when I am too tired to do anything more productive.
+- Loves STM32 microcontrollers. 
+- Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016.
+- Won some prizes and was on TV (see below).
+- IB Diploma Programme M22 Student. HL: Math AA, Physics(+EE), English B, SL: Chemistry, Economics Polish A Lit., 
+- Undertaking Artificial Intelligence course at Silesian University of Technology (being a high school student)
 - ⚡ i use arch btw → [dotfiles](https://github.com/doodek/dotfiles). Tried to use Vim daily, failed.
 
 ### Project higlights
