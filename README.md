@@ -13,6 +13,8 @@ I'm Bart, a 18 year old coder and an IB Diploma student.
 - Undertaking Artificial Intelligence course at Silesian University of Technology (being a high school student)
 - ⚡ i use arch btw → [dotfiles](https://github.com/doodek/dotfiles). Tried to use Vim daily, failed.
 
+My repos may seem quite empty - most of my true work is actually present on private repos of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow)
+
 ### Project higlights
 
 |**Project**|**Description**|
