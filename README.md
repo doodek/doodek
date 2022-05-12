@@ -1,4 +1,4 @@
-### Hi!
+### $ whoami
 I'm Bart, a 18 year old coder and an IB Diploma student.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek) 
 
