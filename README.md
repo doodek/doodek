@@ -14,6 +14,7 @@ I'm Bart, a 18 year old coder and an IB Diploma student.
 - IB Diploma Programme M22 Student. HL: Math AA, Physics(+EE), English B, SL: Chemistry, Economics, Polish A Lit.,
 - Took BSc year 3 Artificial Intelligence course at Silesian University of Technology while being a high school student]
 - I use arch btw → [dotfiles](https://github.com/doodek/dotfiles). Tried to use Vim daily, failed.
+- Can type in LaTeX
 
 ### Project higlights (more in resume)
 
