@@ -1,20 +1,20 @@
 ### $ whoami
 
-I'm Bart, a 18 year old coder and an IB Diploma student.
+I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer studying Comp. Sci. and Engineering at TU Delft, Netherlands.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek)
 
 ### About me
 
-- Leading areas of interest: Embedded systems, AI/ML, Computer Vision
-- Currently focused on: SLAM, [Automated door for henhouse](https://github.com/doodek/cockhouse)
-- Programming AVR Microcontrollers in C since 2016. Wrote a decent amount of [AVR C code](https://github.com/doodek/avr-c-demos), which I edit and push to GitHub when I am too tired to do anything more productive.
+- Leading areas of interest: Embedded systems, Computer Vision
 - Loves STM32 microcontrollers.
+- Currently focused on: Gas Detection devices firmware, [Automated door for henhouse](https://github.com/doodek/cockhouse)
+- Programming AVR Microcontrollers in C since 2016. Wrote a decent amount of [AVR C code](https://github.com/doodek/avr-c-demos), which I edit and push to GitHub when I am too tired to do anything more productive.
 - Proud member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016.
 - Won some prizes and was on TV (see highlughts).
 - IB Diploma Programme M22 Student. HL: Math AA, Physics(+EE), English B, SL: Chemistry, Economics, Polish A Lit.,
 - Took BSc year 3 Artificial Intelligence course at Silesian University of Technology while being a high school student]
 - I use arch btw → [dotfiles](https://github.com/doodek/dotfiles). Tried to use Vim daily, failed.
-- Can type in LaTeX
+- Can do LaTeX really fast
 
 ### Project higlights (more in resume)
 
