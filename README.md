@@ -1,13 +1,13 @@
 ### $ whoami
 
-I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer working for [WatchGas BV](https://watchgas.com/) studying Comp. Sci. and Engineering at TU Delft, Netherlands.
+I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer at [Cosmicnode BV](https://cosmicnode.com/) studying Comp. Sci. and Engineering at TU Delft, Netherlands.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek)
 
 ### About me
 
 - Leading areas of interest: Embedded systems, Computer Vision
-- Loves STM32 microcontrollers.
-- Currently focused on: Gas Detection devices firmware, [Automated door for henhouse](https://github.com/doodek/cockhouse)
+- Loves STM32 microcontrollers and other ARMs
+- Currently focused on: Intelligent light solutions, [Automated door for henhouse](https://github.com/doodek/cockhouse)
 - Programming AVR Microcontrollers in C since 2016. Wrote a decent amount of [AVR C code](https://github.com/doodek/avr-c-demos), which I edit and push to GitHub when I am too tired to do anything more productive.
 - Proud member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016.
 - Won some prizes and was on TV (see highlughts).
