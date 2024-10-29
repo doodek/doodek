@@ -1,6 +1,6 @@
 ### $ whoami
 
-I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer at [Cosmicnode BV](https://cosmicnode.com/) studying Comp. Sci. and Engineering at TU Delft, Netherlands.
+I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer at ################  studying Comp. Sci. and Engineering at TU Delft, Netherlands.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek)
 
 ### About me
