@@ -1,20 +1,20 @@
 ### $ whoami
 
-I'm Bart, a Polish 19 year old Junior Embedded Firmware Developer at ################  studying Comp. Sci. and Engineering at TU Delft, Netherlands.
+I'm Bart, a Polish 21 year old Junior Embedded Firmware Developer at Soluxio  studying Comp. Sci. and Engineering at TU Delft, Netherlands.
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek)
 
 ### About me
 
-- Leading areas of interest: Embedded systems, Computer Vision
+- Leading areas of interest: Embedded systems: IoT, Solar Power, Computer Vision
 - Loves STM32 microcontrollers and other ARMs
-- Currently focused on: Intelligent light solutions, [Automated door for henhouse](https://github.com/doodek/cockhouse)
+- Currently focused on: MPPTs, Intelligent light solutions, [Automated door for henhouse](https://github.com/doodek/cockhouse)
 - Programming AVR Microcontrollers in C since 2016. Wrote a decent amount of [AVR C code](https://github.com/doodek/avr-c-demos), which I edit and push to GitHub when I am too tired to do anything more productive.
-- Proud member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016.
+- Proud  member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016. Kinda retired after 2022 because I left Poland
 - Won some prizes and was on TV (see highlughts).
 - IB Diploma Programme M22 Student. HL: Math AA, Physics(+EE), English B, SL: Chemistry, Economics, Polish A Lit.,
-- Took BSc year 3 Artificial Intelligence course at Silesian University of Technology while being a high school student]
 - I use arch btw → [dotfiles](https://github.com/doodek/dotfiles). Tried to use Vim daily, failed.
 - Can do LaTeX really fast
+- Have you heard about Lunar Zebro?
 
 ### Project higlights (more in resume)
 
