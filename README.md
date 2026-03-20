@@ -5,7 +5,7 @@ I'm Bart, a Polish 22 year old (Embedded-and-other-kinds-of) Software Engineer s
 [Telegram](https://t.me/dooodek) • [LinkedIn](www.linkedin.com/in/bartlomiej-dudek)
 
 ### About me
-- Areas of interest: Software controlling all kinds of hardware
+- Areas of interest: Software controlling all kinds of hardware, high tech, science
 - Currently focused on: Efficiently simulating complex machines
 - Proud  member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow) since 2016. Kinda retired after 2022 because I left Poland
 - IB Diploma Programme 2022 graduate
